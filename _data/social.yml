@@ -1,9 +1,9 @@
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://haoyu.fang@nyu.edu
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+- title: LinkedIn
+  url: https://www.linkedin.com/in/haoyu-fang-376766179/
+  icon: fab fa-linkedin
 - title: GitHub
-  url: https://github.com/vszhub/not-pure-poole
+  url: https://github.com/HaoyuCreate
   icon: fab fa-github
