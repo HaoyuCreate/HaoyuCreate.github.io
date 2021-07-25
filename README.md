@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Not Pure Poole <!-- omit in toc -->
+# Haoyu Fang Personal Website <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
   <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
@@ -207,11 +206,3 @@ Your theme is setup just like a normal Jekyll site! To test your theme, run `bun
 
 When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
 To add a custom directory to your theme-gem, please edit the regexp in `not-pure-poole.gemspec` accordingly.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-=======
-# Hello, Haoyu Fang
-My profile and work experience
->>>>>>> cd3e3784f71f99daec71e56f82cb222004560f0c
