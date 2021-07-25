@@ -1,11 +1,11 @@
 # Setup
 title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+description: New York University, NY USA | Tianjin University, TJ PRC
+url: https://haoyucreate.github.io/Haoyu_Fang.github.io/
+avatar: /avatar.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
