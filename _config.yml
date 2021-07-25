@@ -1,9 +1,9 @@
 # Setup
-title: Not Pure Poole
+title: Haoyu Fang
 description: New York University, NY USA | Tianjin University, TJ PRC
 url: https://haoyucreate.github.io/Haoyu_Fang.github.io/
 avatar: /avatar.png
-paginate: 8
+paginate: 6
 permalink: pretty
 cover_image: /bg.jpg
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Haoyu Fang
+  url: https://haoyucreate.github.io/Haoyu_Fang.github.io/
+  email:haoyu.fang@nyu.edu
