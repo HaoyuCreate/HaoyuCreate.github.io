@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
