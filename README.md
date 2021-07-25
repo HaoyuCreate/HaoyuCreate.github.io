@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
@@ -210,3 +211,7 @@ To add a custom directory to your theme-gem, please edit the regexp in `not-pure
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+=======
+# Hello, Haoyu Fang
+My profile and work experience
+>>>>>>> cd3e3784f71f99daec71e56f82cb222004560f0c
