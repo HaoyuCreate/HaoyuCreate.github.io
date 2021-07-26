@@ -1,9 +1,10 @@
 # Setup
 title: Haoyu Fang
-description: New York University, NY USA  Tianjin University, TJ PRC
+description: New York University, NY USA
+description: Tianjin University, TJ PRC
 url: https://haoyucreate.github.io/Haoyu_Fang.github.io/
 avatar: /avatar.png
-paginate: 5
+paginate: 6
 permalink: pretty
 cover_image: /bg.jpg
 
@@ -33,10 +34,9 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Haoyu Fang
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/HaoyuCreate
 google_site_verification: xxxxx
 lang: en
 
