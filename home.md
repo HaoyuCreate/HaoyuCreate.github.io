@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 permalink: /home/
 title: Haoyu Fang
 ---
