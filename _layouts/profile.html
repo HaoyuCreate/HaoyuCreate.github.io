@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include home-header.html %}
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
@@ -36,7 +37,7 @@ layout: default
   {% endif %}
 </article>
 
-{% if site.related_posts != empty %}
+<!-- {% if site.related_posts != empty %}
 <aside class="related">
   <h2>Related posts</h2>
   <ul class="related-posts">
@@ -50,4 +51,4 @@ layout: default
     {% endfor %}
   </ul>
 </aside>
-{% endif %}
+{% endif %} -->
