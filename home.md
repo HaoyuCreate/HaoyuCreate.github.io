@@ -1,6 +1,6 @@
 ---
-layout: post
-permalink: /profile/
+layout: home
+permalink: /home/
 title: Haoyu Fang
 ---
 Welcome to my personal website! 

@@ -1,9 +1,6 @@
-- type: profile
-  title: Profile
-  url: /profile/
-#- type: categories
-#  title: Categories
-#  url: /categories/
+- type: home
+  title: Home
+  url: /home/
 - type: projects
   title: Projects
   url: /projects/
