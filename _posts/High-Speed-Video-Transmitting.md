@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Visial Learning in Automous Driving
+title: High Speed Video Transmitting
 date: 2019-8-14 23:18 +0800
 last_modified_at: 2021-1-5 06:07 +0800
-# tags: [jekyll theme, jekyll, tutorial]
+tags:
+- Gstreamer
+- CUDA
+- GPU
+- Parallel Computing
 toc:  true
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
