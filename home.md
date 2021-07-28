@@ -2,7 +2,6 @@
 layout: profile
 title: Haoyu Fang
 ---
-Welcome to my website! 
 
 I am a graduate student in Electrical Engineering at New York University, USA. My research interests lie at the intersection of **machine learning**, **computer vision**, and **digital signal processing**. During my time at NYU, I have been dedicated to designing advanced learning-based algorithms of object detection and depth estimation in visual SLAM for **autonomous driving system**. Before coming to NYU, I worked as a Research Engineer at New York University Abudhabi, UAE, and researched deep feature representation learning from **medical images** and **point clouds**.
 
