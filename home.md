@@ -11,9 +11,11 @@ Previously, I earned my bachelor and master degree in Electical and Informaiton 
 
 Download my [resumé](\Resume.pdf).
 
+======
 ## Education
 
 
+======
 ## Research
 ### Publications
 + **Pairwise Attention Encoding for Point Cloud Feature Learning**  
@@ -22,13 +24,13 @@ Download my [resumé](\Resume.pdf).
   \[[BibTeX](/assets/bibs/fang2019pairwise.txt)\] \[[Link to Proceedings](https://ieeexplore.ieee.org/abstract/document/8885569)\]
 
 ### Manuscripts
-+ **Lane Detection**  
-  **H. Fang**, J. Zhu, Y. Fang, K. Lien and J. Gu.  
++ **ContinuityLearner: Geometric Continuity Feature Learning for LaneSegmentation**  
+  **H. Fang**, J. Zhu, F. Gao, A. Tzes and Y. Fang.  
   _arXiv preprint arXiv:1909.13163_, 2019.  
-  \[[BibTeX](/assets/bibs/shi2019self.txt)\] \[[Link to arXiv](https://arxiv.org/abs/1909.13163)\]
-+ **Medical Segmentation**  
-  **H. Fang**, J. Zhu, Y. Fang, K. Lien and J. Gu.  
+  \[[BibTeX]<!-- (/assets/bibs/shi2019self.txt) -->\] \[[Link to arXiv]<!-- (https://arxiv.org/abs/1909.13163) -->\]
++ **Multi-organ Segmentation Network with Adversarial Performance Validator**  
+  **H. Fang**, Y. Fang and X. Yang.  
   _arXiv preprint arXiv:1909.13163_, 2019.  
-  \[[BibTeX](/assets/bibs/shi2019self.txt)\] \[[Link to arXiv](https://arxiv.org/abs/1909.13163)\]
+  \[[BibTeX]<!-- (/assets/bibs/shi2019self.txt) -->\] \[[Link to arXiv]<!-- (https://arxiv.org/abs/1909.13163) -->\]
 
 ### Patents
