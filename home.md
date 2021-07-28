@@ -11,11 +11,11 @@ Previously, I earned my bachelor and master degree in Electical and Informaiton 
 
 Download my [resumé](/assets/Resume.pdf).
 
-======
+---
 ## Education
 
 
-======
+---
 ## Research
 ### Publications
 + **Pairwise Attention Encoding for Point Cloud Feature Learning**  
