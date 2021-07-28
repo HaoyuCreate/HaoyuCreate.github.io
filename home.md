@@ -16,20 +16,18 @@ Download my [resumé](\Resume.pdf).
 
 ## Research
 ### Publications
++ **Pairwise Attention Encoding for Point Cloud Feature Learning**  
+  Y. Shi, **H. Fang**, J. Zhu and Y. Fang.  
+  _In Proceedings of $$\textit{7}^{th}$$ International Conference on 3D Vision (3DV)_, Québec City, Canada, Sep. 16 - 19, 2019.  
+  \[[BibTeX](/assets/bibs/fang2019pairwise.txt)\] \[[Link to Proceedings](https://ieeexplore.ieee.org/abstract/document/8885569)\]
+
 ### Manuscripts
++ **Lane Detection**  
+  **H. Fang**, J. Zhu, Y. Fang, K. Lien and J. Gu.  
+  _arXiv preprint arXiv:1909.13163_, 2019.  
+  \[[BibTeX](/assets/bibs/shi2019self.txt)\] \[[Link to arXiv](https://arxiv.org/abs/1909.13163)\]
++ **Medical Segmentation**  
+  **H. Fang**, J. Zhu, Y. Fang, K. Lien and J. Gu.  
+  _arXiv preprint arXiv:1909.13163_, 2019.  
+  \[[BibTeX](/assets/bibs/shi2019self.txt)\] \[[Link to arXiv](https://arxiv.org/abs/1909.13163)\]
 ### Patents
-
-
-## Project
-
-### Multiple Small Organ Segmentation from CT images
-
-### Leaf Disease Classification
-
-### Lane Detection in Traffic Scenarios
-
-### Object Detection and object-wise depth estimation
-
-### Visual SLAM system
-
-### High-speed Video Transmitting

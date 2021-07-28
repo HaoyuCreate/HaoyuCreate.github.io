@@ -1,11 +1,11 @@
 # Setup
 title: Haoyu Fang
 description: "PhD. Candidate,\n\ New York University"
-url: https://Haoyu_Fang.github.io/
-avatar: /avatar.png
+url: https://haoyucreate.github.io/
+avatar: /assets/images/avatar.png
 paginate: 6
 permalink: pretty
-cover_image: /bg.jpg
+cover_image: /assets/images/bg.jpg
 
 # Gems
 plugins:
@@ -54,5 +54,6 @@ sass:
 # Specify the author for blog posts
 author:
   name: Haoyu Fang
-  url: https://Haoyu_Fang.github.io/
+  url: https://haoyucreate.github.io/
+  location: "New York, NY"
   email: haoyu.fang@nyu.edu

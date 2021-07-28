@@ -1,0 +1,8 @@
+@inproceedings{fang2019pairwise,
+  title={Pairwise Attention Encoding for Point Cloud Feature Learning},
+  author={Shi, Yunxiao and Fang, Haoyu and Zhu, Jing and Fang, Yi},
+  booktitle={2019 International Conference on 3D Vision (3DV)},
+  pages={135--144},
+  year={2019},
+  organization={IEEE}
+}
