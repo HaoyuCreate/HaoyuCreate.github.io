@@ -1,10 +1,9 @@
 ---
 layout: post
-permalink: /projects/
+permalink: /_posts/
 title: Projects
 type: projects
 ---
-## Project
 
 ### Multiple Small Organ Segmentation from CT images
 
