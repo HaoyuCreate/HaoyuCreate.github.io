@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomies
+layout: post
 permalink: /projects/
 title: Projects
 type: projects
