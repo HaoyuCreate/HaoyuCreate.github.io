@@ -2,18 +2,20 @@
 layout: profile
 title: Haoyu Fang
 ---
-Welcome to my personal website! 
+Welcome to my website! 
 
-I am a graduate student in Electrical Engineering at New York University, USA. My research interests lie at the intersection of **machine learning**, **computer vision** and **digital signal processing**. During my time at NYU, I have been dedicated on designing advanced learning-based algorithms of object detection and depth estimation in visual SLAM for **autonomous driving system**. Before coming to the NYU, I worked as an Research Engineer at New York University Abudhabi, UAE and conducted researches on deep feature representation learning from **medical images** and **point clouds**.
+I am a graduate student in Electrical Engineering at New York University, USA. My research interests lie at the intersection of **machine learning**, **computer vision**, and **digital signal processing**. During my time at NYU, I have been dedicated to designing advanced learning-based algorithms of object detection and depth estimation in visual SLAM for **autonomous driving system**. Before coming to NYU, I worked as a Research Engineer at New York University Abudhabi, UAE, and researched deep feature representation learning from **medical images** and **point clouds**.
 
 
-Previously, I earned my bachelor and master degree in Electical and Informaiton Engineering from Tianjin University, PRC in 2015 and 2018 respectively, when I was keeping doing research on compressed sensoring and nonconvex penalty for **digital signal deconvolution and deblurring**. I also developed algorithms of **super-resolution** for 1D/2D signals (Acoustic/Visual signals).
+Previously, I earned my bachelor's and master's degrees from Tianjin University, PRC, in 2015 and 2018, respectively, when I kept researching compressed sensing and nonconvex penalty for **digital signal deconvolution and deblurring**. I also developed algorithms of **super-resolution** for 1D/2D signals (Acoustic/Visual signals).
 
 Download my [resumé](/assets/Resume.pdf).
 
 ---
 ## Education
-
++ Ph.D in Electrical Engineering, New York University, 2019
++ MSE. in Electrical and Information Engieering, Tianjin University, 2015
++ BSC. in Electronic Science and Technology, Tianjin University, 2011
 
 ---
 ## Research
@@ -27,10 +29,10 @@ Download my [resumé](/assets/Resume.pdf).
 + **ContinuityLearner: Geometric Continuity Feature Learning for LaneSegmentation**  
   **H. Fang**, J. Zhu, F. Gao, A. Tzes and Y. Fang.  
   _arXiv preprint arXiv:1909.13163_, 2019.  
-  \[[BibTeX]<!-- (/assets/bibs/shi2019self.txt) -->\] \[[Link to arXiv]<!-- (https://arxiv.org/abs/1909.13163) -->\]
+  \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
 + **Multi-organ Segmentation Network with Adversarial Performance Validator**  
   **H. Fang**, Y. Fang and X. Yang.  
   _arXiv preprint arXiv:1909.13163_, 2019.  
-  \[[BibTeX]<!-- (/assets/bibs/shi2019self.txt) -->\] \[[Link to arXiv]<!-- (https://arxiv.org/abs/1909.13163) -->\]
+  \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
 
 ### Patents
