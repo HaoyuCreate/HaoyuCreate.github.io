@@ -18,7 +18,7 @@ Download my [resumé](\Resume.pdf).
 ### Publications
 + **Pairwise Attention Encoding for Point Cloud Feature Learning**  
   Y. Shi, **H. Fang**, J. Zhu and Y. Fang.  
-  _In Proceedings of $\textit{7}^{th}$ International Conference on 3D Vision (3DV)_, Québec City, Canada, Sep. 16 - 19, 2019.  
+  _In Proceedings of 7-th International Conference on 3D Vision (3DV)_, Québec City, Canada, Sep. 16 - 19, 2019.  
   \[[BibTeX](/assets/bibs/fang2019pairwise.txt)\] \[[Link to Proceedings](https://ieeexplore.ieee.org/abstract/document/8885569)\]
 
 ### Manuscripts
