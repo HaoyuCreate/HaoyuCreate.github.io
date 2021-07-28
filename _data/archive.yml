@@ -1,6 +1,6 @@
-- type: home
-  title: Home
-  url: /home/
+- type: profile
+  title: Profile
+  url: /profile/
 - type: projects
   title: Projects
   url: /projects/

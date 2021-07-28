@@ -17,6 +17,11 @@ Download my [resumé](/assets/Resume.pdf).
 + BSC. in Electronic Science and Technology, Tianjin University, 2011
 
 ---
+## Experience
++ 2018-2019, Research Engineer, New York University Abuhdabi
++ 2019-2021, Research Assistant, New York University
+
+---
 ## Research
 ### Publications
 + **Pairwise Attention Encoding for Point Cloud Feature Learning**  
