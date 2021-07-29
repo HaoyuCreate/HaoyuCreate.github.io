@@ -38,11 +38,11 @@ Download my [resumé](/assets/Resume.pdf).
 ### Manuscripts
 + **ContinuityLearner: Geometric Continuity Feature Learning for LaneSegmentation**  
   **H. Fang**, J. Zhu, F. Gao, A. Tzes and Y. Fang.  
-  _arXiv preprint arXiv:2107.13143_, 2021.  
+  _arXiv preprint arXiv:2021.13568_, 2021.  
   \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
 + **Multi-organ Segmentation Network with Adversarial Performance Validator**  
   **H. Fang**, Y. Fang and X. Yang.  
-  _arXiv preprint arXiv:2107.14586_, 2021.  
+  _arXiv preprint arXiv:2021.14196_, 2021.  
   \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
 
 ### Patents
