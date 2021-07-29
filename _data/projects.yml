@@ -8,7 +8,7 @@
                   CT images,
                   MRI
                 ]
-  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
+  cover: /assets/images/test.png
   images: [
     '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
     '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
@@ -43,7 +43,7 @@
                   Tensorflow,
                   Keras
                 ]
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
+  cover: /assets/images/test.png
   images: [
     '/assets/images/project_covers/shoot-things-game-cover.png'
   ]
@@ -59,7 +59,7 @@
                   C++,
                   Gsteamer
                 ]
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
+  cover: /assets/images/test.png
   images: [
     '/assets/images/project_covers/shoot-things-game-cover.png'
   ]
