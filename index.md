@@ -17,6 +17,11 @@ Download my [resumé](/assets/Resume.pdf).
 ---
 ## Research
 ### Publications
++ **Deep learning-assisted light-writing recognition based on the two-dimensional photothermoelectric effect of SnSe**
+  Y. Zhong, **H. Fang**, H. Zhu.
+  _2D Materials_,2021.
+  \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
+
 + **Pairwise Attention Encoding for Point Cloud Feature Learning**  
   Y. Shi, **H. Fang**, J. Zhu and Y. Fang.  
   _In Proceedings of 7-th International Conference on 3D Vision (3DV)_, Québec City, Canada, Sep. 16 - 19, 2019.  
