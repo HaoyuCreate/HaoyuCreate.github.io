@@ -6,9 +6,10 @@
   technologies: [
                   Pytorch,
                   CT images,
-                  MRI
+                  MRI,
+                  heroku-original
                 ]
-  cover: /assets/images/test.png
+  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
   images: [
     '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
     '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
@@ -43,7 +44,7 @@
                   Tensorflow,
                   Keras
                 ]
-  cover: /assets/images/test.png
+  cover: /assets/images/project_covers/shoot-things-game-cover.png
   images: [
     '/assets/images/project_covers/shoot-things-game-cover.png'
   ]
@@ -59,7 +60,7 @@
                   C++,
                   Gsteamer
                 ]
-  cover: /assets/images/test.png
+  cover: /assets/images/project_covers/shoot-things-game-cover.png
   images: [
     '/assets/images/project_covers/shoot-things-game-cover.png'
   ]
