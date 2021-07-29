@@ -47,5 +47,5 @@ Download my [resumé](/assets/Resume.pdf).
 
 ### Patents
 + **A approach to gain high quality image with coded aperture camera**
- _National Patent Office of P.R.China_, 2019.
- \[[Certification](/assets/certificaiton.pdf)\]
+  _National Patent Office of P.R.China_, 2019.  
+  \[[Certification](/assets/certificaiton.pdf)\]
