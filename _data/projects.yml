@@ -44,11 +44,12 @@
   title: Leaf Deseas Classfication (Kaggle Competition)
   # url: https://levytsroman.github.io/shootThingsGame/
   # github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
+  description: Participated in Kaggle Cassava Leaf Disease Classification Competition and earned a sliver medal as 19/3900 teams;g over a pictureque rendering of my favorite planet (Earth) in MS Paint.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain
+                  pseudo labeling,
+                  Pytorch,
+                  Tensorflow,
+                  Keras
                 ]
   cover: /assets/images/project_covers/shoot-things-game-cover.png
   images: [
