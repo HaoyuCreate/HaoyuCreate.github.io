@@ -2,16 +2,11 @@
   title: Multiple Small Organ Segmentation
   # url: https://tic-or-treat.herokuapp.com/
   # github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
-  description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
+  description: Worked on 2D/3D multi-organ segmentation from head-and-neck and abdominal CT/MRI images.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark
-                  javascript-plain,
-                  react-original,
-                  ruby-plain,
-                  rails-plain,
-                  postgresql-plain,
-                  heroku-original
+                  Pytorch,
+                  CT images,
+                  MRI
                 ]
   cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
   images: [
@@ -24,16 +19,13 @@
   title: Lane Detection in Automous Driving
   # url: https://dbc-hackoverflow.herokuapp.com/
   # github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
+  description: Worked on advanced algorithms of object detection and depth estimation in autonomous driving scenarios.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain,
-                  ruby-plain,
-                  sinatra-plain,
-                  postgresql-plain,
-                  heroku-original,
-                  materialize-plain
+                  Visual SLAM,
+                  Depth Estimation,
+                  Ego-motion,
+                  supervised/self-supervised learning,
+                  GAN
                 ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
   images: [
@@ -44,7 +36,7 @@
   title: Leaf Deseas Classfication (Kaggle Competition)
   # url: https://levytsroman.github.io/shootThingsGame/
   # github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: Participated in Kaggle Cassava Leaf Disease Classification Competition and earned a sliver medal as 19/3900 teams;g over a pictureque rendering of my favorite planet (Earth) in MS Paint.
+  description: Participated in Kaggle Cassava Leaf Disease Classification Competition and earned a sliver medal as 19/3900 teams.
   technologies: [
                   pseudo labeling,
                   Pytorch,
@@ -60,11 +52,12 @@
   title: High Speed Video Transmitting
   # url: https://levytsroman.github.io/shootThingsGame/
   # github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
+  description: Established a Gstreamer pipeline of video capturing, fish-eye camera calibrating, compressing and transmitting.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain
+                  CUDA,
+                  GPU parallel processing,
+                  C++,
+                  Gsteamer
                 ]
   cover: /assets/images/project_covers/shoot-things-game-cover.png
   images: [
