@@ -12,7 +12,7 @@ Download my [resumé](/assets/Resume.pdf).
 
 ---
 ## Education
-+ Ph.D in Electrical Engineering, New York University, 2019
++ MEng. in Electrical Engineering, New York University, 2019
 + MEng. in Electrical and Information Engieering, Tianjin University, 2015
 + BEng. in Electronic Science and Technology, Tianjin University, 2011
 
@@ -27,7 +27,7 @@ Download my [resumé](/assets/Resume.pdf).
 
 + **Deep learning-assisted light-writing recognition based on the two-dimensional photothermoelectric effect of SnSe**  
   Y. Zhong, **H. Fang**, H. Zhu.  
-  Accepted by _2D Materials_,2021.  
+  Accepted by _2D Materials_, 2021.  
   \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to Proceedings<!-- (https://arxiv.org/abs/1909.13163) -->\]
 
 + **Pairwise Attention Encoding for Point Cloud Feature Learning**  
@@ -47,5 +47,5 @@ Download my [resumé](/assets/Resume.pdf).
 
 ### Patents
 + **A approach to gain high quality image with coded aperture camera**  
-  _National Patent Office of P.R.China_, 2018.  
+  Conferred by _National Patent Office of P.R.China_, 2018.  
   \[[Certification](/assets/certificaiton.pdf)\]
