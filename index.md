@@ -19,7 +19,7 @@ Download my [resumé](/assets/Resume.pdf).
 ### Publications
 + **Deep learning-assisted light-writing recognition based on the two-dimensional photothermoelectric effect of SnSe**
   Y. Zhong, **H. Fang**, H. Zhu.
-  _2D Materials_,2021.
+  _2D Materials_,2021.  
   \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
 
 + **Pairwise Attention Encoding for Point Cloud Feature Learning**  

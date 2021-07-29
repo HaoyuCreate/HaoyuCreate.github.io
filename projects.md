@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /post/
+permalink: /project/
 title: Projects
 type: projects
 ---
