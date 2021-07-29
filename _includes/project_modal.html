@@ -17,16 +17,17 @@
         <h4 class="col s9 m10">{{project.title}}</h4>
       </div> -->
       <div class="row">
-        <div class="col s3 m2 info_type">
+        <!-- <div class="col s3 m2 info_type">
           description:
-        </div>
-        <p class="description col s9 m10">{{project.description}}</p>
+        </div> -->
+        <p class="description col s9 m10">description: {{project.description}}</p>
       </div>
       <div class="row">
-        <div class="col s3 m2 info_type">
-          skills:
-        </div>
+        <!-- <div class="col s3 m2 info_type">
+          Tags:
+        </div> -->
         <div class="col s9 m10">
+          Tags:
           {% for tech in project.technologies %}
             <i class="devicon-{{tech}} project_icons"></i>
           {% endfor %}
