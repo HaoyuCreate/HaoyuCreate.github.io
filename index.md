@@ -38,3 +38,6 @@ Download my [resumé](/assets/Resume.pdf).
   \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
 
 ### Patents
++ **A approach to gain high quality image with coded aperture camera**  
+  _National Patent Office of P.R.China_, 2019.  
+  \[[Certification](/assets/certificaiton.pdf)\]
