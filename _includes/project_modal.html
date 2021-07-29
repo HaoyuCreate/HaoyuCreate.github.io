@@ -18,17 +18,17 @@
       </div> -->
       <div class="row">
         <!-- <div class="col s3 m2 info_type">
-          description:
+          Description:
         </div> -->
-        <p class="description col s9 m10">description: {{project.description}}</p>
+        <p class="description col s9 m10">Description: {{project.description}}</p>
       </div>
       <div class="row">
         <!-- <div class="col s3 m2 info_type">
           Tags:
         </div> -->
         <div class="col s9 m10">
-          Tags:
-          {% for tech in project.technologies %}
+          Keywords:
+          {% for tech in projects.technologies %}
             <i class="devicon-{{tech}} project_icons"></i>
           {% endfor %}
         </div>
