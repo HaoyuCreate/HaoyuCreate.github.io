@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: project
 permalink: /projects/
 title: Projects
 type: projects
 ---
 
-### Multiple Small Organ Segmentation from CT images
+<!-- ### Multiple Small Organ Segmentation from CT images
 
 ### Leaf Disease Classification
 
@@ -15,4 +15,4 @@ type: projects
 
 ### Visual SLAM system
 
-### High-speed Video Transmitting
+### High-speed Video Transmitting -->

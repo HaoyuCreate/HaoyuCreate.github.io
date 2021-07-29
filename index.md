@@ -10,9 +10,9 @@ Download my [resumé](/assets/Resume.pdf).
 
 ---
 ## Education
-+ Ph.D in Electrical Engineering, New York University, 2019
-+ MSE. in Electrical and Information Engieering, Tianjin University, 2015
-+ BSC. in Electronic Science and Technology, Tianjin University, 2011
++ MEng in Electrical Engineering, New York University, 2019
++ MEng. in Electrical and Information Engieering, Tianjin University, 2015
++ BEng. in Electronic Science and Technology, Tianjin University, 2011
 
 ---
 ## Research
