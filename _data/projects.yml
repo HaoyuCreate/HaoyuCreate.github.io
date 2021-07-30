@@ -52,7 +52,7 @@
   date: 2017-09-01
   last_modified_at: 2017-12-31
   # url: https://levytsroman.github.io/shootThingsGame/
-  github_url: /assets/VideoTransmittingIntro.pdf
+  github_url: /assets/files/VideoTransmittingIntro.pdf
   description: Established a Gstreamer pipeline of video capturing, fish-eye camera calibrating, compressing and transmitting.
   technologies: [
                   CUDA,

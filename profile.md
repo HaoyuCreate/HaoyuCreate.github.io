@@ -46,6 +46,6 @@ Download my [resumé](/assets/Resume.pdf).
   \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
 
 ### Patents
-+ **A approach to gain high quality image with coded aperture camera**  
++ **An Approach to Gain High Quality Image with Coded Aperture Camera**  
   Conferred by _National Patent Office of P.R.China_, 2018.  
-  \[[Certification](/assets/images/PatentCertificaiton.jpg)\]
+  \[[Certification](/assets/files/PatentCertificaiton.pdf)\]
