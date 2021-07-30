@@ -12,9 +12,7 @@
                   Pseudo labeling
                 ]
   cover: /assets/images/test.png
-  images: [
-    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
-  ]
+  images: /assets/images/project_images/MedicalSeg/MedicalSeg_result1.png
 
 - id: 2
   title: Lane Detection in Automous Driving
@@ -31,9 +29,7 @@
                   GAN
                 ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
-  images: [
-    '/assets/images/project_covers/hack-overflow-cover.png'
-  ]
+  images: /assets/images/project_images/LaneDet/LaneDet_result1.png
 
 - id: 3
   title: Leaf Deseas Classfication (Kaggle Competition)
@@ -41,17 +37,15 @@
   last_modified_at: 2021-03-21
   # url: https://levytsroman.github.io/shootThingsGame/
   github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: Participated in Kaggle Cassava Leaf Disease Classification Competition and earned a sliver medal as 19/3900 teams.
+  description: Participated in Kaggle Cassava Leaf Disease Classification Competition and earned a sliver medal as No.19 over around 3900 teams.
   technologies: [
                   Emsemble Learning,
                   Boosting,
                   Tensorflow,
                   Keras
                 ]
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
-  images: [
-    '/assets/images/project_covers/shoot-things-game-cover.png'
-  ]
+  cover: /assets/images/test.png
+  images: /assets/images/project_images/LeafCla/LeafCla_result1.png
 
 - id: 4
   title: High Speed Video Transmitting
@@ -66,7 +60,7 @@
                   C++,
                   Gsteamer
                 ]
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
+  cover: /assets/images/test.png
   images: [
     '/assets/images/project_covers/shoot-things-game-cover.png'
   ]
