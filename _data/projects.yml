@@ -1,31 +1,33 @@
 - id: 1
   title: Multiple Small Organ Segmentation
+  date: 2018-10-14 12:00 +0800
+  last_modified_at: 2019-04-08 12:08 +0800
   # url: https://tic-or-treat.herokuapp.com/
-  # github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
+  github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
   description: Worked on 2D/3D multi-organ segmentation from head-and-neck and abdominal CT/MRI images.
   technologies: [
                   Pytorch,
                   CT images,
                   MRI,
-                  heroku-original
+                  Pseudo labeling
                 ]
   cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
   images: [
-    '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
   ]
 
 - id: 2
   title: Lane Detection in Automous Driving
+  date: 2019-08-02 12:00 +0800
+  last_modified_at: 2020-12-24 12:00 +0800
   # url: https://dbc-hackoverflow.herokuapp.com/
-  # github_url: https://github.com/wvicioso/hackoverflow
+  github_url: https://github.com/wvicioso/hackoverflow
   description: Worked on advanced algorithms of object detection and depth estimation in autonomous driving scenarios.
   technologies: [
                   Visual SLAM,
                   Depth Estimation,
                   Ego-motion,
-                  supervised/self-supervised learning,
+                  self-supervised,
                   GAN
                 ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
@@ -35,12 +37,14 @@
 
 - id: 3
   title: Leaf Deseas Classfication (Kaggle Competition)
+  date: 2020-12-02 12:00 +0800
+  last_modified_at: 2021-03-21 12:00 +0800
   # url: https://levytsroman.github.io/shootThingsGame/
-  # github_url: https://github.com/LevytsRoman/shootThingsGame
+  github_url: https://github.com/LevytsRoman/shootThingsGame
   description: Participated in Kaggle Cassava Leaf Disease Classification Competition and earned a sliver medal as 19/3900 teams.
   technologies: [
-                  pseudo labeling,
-                  Pytorch,
+                  Emsemble Learning,
+                  Boosting,
                   Tensorflow,
                   Keras
                 ]
@@ -51,8 +55,10 @@
 
 - id: 4
   title: High Speed Video Transmitting
+  date: 2017-09-01 12:00 +0800
+  last_modified_at: 2017-12-31 12:00 +0800
   # url: https://levytsroman.github.io/shootThingsGame/
-  # github_url: https://github.com/LevytsRoman/shootThingsGame
+  github_url: https://github.com/LevytsRoman/shootThingsGame
   description: Established a Gstreamer pipeline of video capturing, fish-eye camera calibrating, compressing and transmitting.
   technologies: [
                   CUDA,
