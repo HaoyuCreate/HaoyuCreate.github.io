@@ -4,20 +4,9 @@
       <div class="col s8 offset-s2">
         <a href={{project.github_url}}><h3 class="heading"> <font color="DeepSkyBlue">{{project.title}}</font></h3></a>
         <p>From {{project.date}} to {{project.last_modified_at}}</p>
-        <!-- Description -->
-        <div class="row">
-          <p class="description col s9 m10">Description: {{project.description}}</p>
-        </div>
-        <!-- Key Words -->
-        <div class="col s9 m10">
-          Key Words:
-          {% for tech in projects.technologies %}
-            <i class="devicon-{{tech}} project_icons"></i>
-          {% endfor %}
-        </div>
-      </div>
       </div>
     </div>
+  </div>
    <!-- Modal Structure -->
-    <!-- {% include project_modal.html %} -->
+    {% include project_modal.html %}
 </div>

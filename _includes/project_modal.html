@@ -10,22 +10,14 @@
       {% endfor %}
     </div> -->
     <div class="project_info">
+      <!-- Description -->
       <div class="row">
-        <!-- <div class="col s3 m2 info_type">
-          title:
+        <div class="row">
+          <p class="description col s9 m10">Description: {{project.description}}</p>
         </div>
-        <h4 class="col s9 m10">{{project.title}}</h4>
-      </div> -->
-      <div class="row">
-        <!-- <div class="col s3 m2 info_type">
-          Description:
-        </div> -->
-        <p class="description col s9 m10">Description: {{project.description}}</p>
       </div>
+      <!-- Key Words -->
       <div class="row">
-        <!-- <div class="col s3 m2 info_type">
-          Tags:
-        </div> -->
         <div class="col s9 m10">
           Key Words:
           {% for tech in projects.technologies %}
@@ -45,5 +37,4 @@
         </a>
       </div>
   </div> -->
-</div>
 </div>
