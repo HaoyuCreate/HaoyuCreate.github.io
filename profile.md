@@ -8,7 +8,7 @@ I am a graduate student in Electrical Engineering at New York University, USA. M
 
 Previously, I earned my bachelor's and master's degrees from Tianjin University, PRC, in 2015 and 2018, respectively, when I kept researching compressed sensing and nonconvex penalty for **digital signal deconvolution and deblurring**. I also developed algorithms of **super-resolution** for 1D/2D signals (Acoustic/Visual signals).
 
-Download my [resumé](/assets/Resume.pdf).
+Download my [resumé](/assets/files/Resume.pdf).
 
 ---
 ## Education
