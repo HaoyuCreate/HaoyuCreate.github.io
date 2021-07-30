@@ -4,7 +4,7 @@
   last_modified_at: 2019-04-08
   # url: https://tic-or-treat.herokuapp.com/
   github_url: https://github.com/HaoyuCreate/MedicalSegmentation
-  description: Worked on 2D/3D multi-organ segmentation from head-and-neck and abdominal CT/MRI images.
+  description: Propose an effective strategy that jointly trains 2D segmentation and 3D segmentation networks in a coarse-to-fine manner.  With the 2D segmentation network providing organ-attended data learned from an extensive volume input, the 3D deep network can generate refined segmentation results based on multi-stage visual knowledge.  Besides,  a novel Adversarial Performance Validator (APV) module is applied to the 2D-to-3D pipeline.
   technologies: [
                   Pytorch,
                   CT images,
@@ -20,7 +20,7 @@
   last_modified_at: 2020-12-24
   # url: https://dbc-hackoverflow.herokuapp.com/
   github_url: https://github.com/HaoyuCreate/Lane-segmentation-for-Automous-Driving
-  description: Worked on advanced algorithms of object detection and depth estimation in autonomous driving scenarios.
+  description: Developed a deep network named ContinuityLearner to better learn geometric prior within lane. Specifically, our proposed CNN-based paradigm involves a novel Context-encoding image feature learning network to generate class-dependent image feature maps and a new encoding layer to exploit the geometric continuity feature representation by fusing both spatial and visual information of lane together.
   technologies: [
                   Visual SLAM,
                   Depth Estimation,
