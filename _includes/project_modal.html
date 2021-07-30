@@ -19,12 +19,12 @@
       <!-- Key Words -->
       <div class="row">
         <div class="col s9 m10">
-          <p>
+          <p><i><font size="-1" color="DeepSkyBlue">
             Key Words:
             {% for tech in project.technologies %}
-              "{{tech}}" <!-- <i class="devicon-{{tech}} project_icons"></i> -->
+              {{tech}}
             {% endfor %}
-          </p>
+          </font></i></p>
         </div>
       </div>
       <!-- Image -->
