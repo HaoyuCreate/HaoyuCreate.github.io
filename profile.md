@@ -13,8 +13,8 @@ Download my [resumé](/assets/files/Resume.pdf).
 ---
 ## Education
 + MEng. in Electrical Engineering, New York University, 2019
-+ MEng. in Electrical and Information Engieering, Tianjin University, 2015
-+ BEng. in Electronic Science and Technology, Tianjin University, 2011
++ MEng. in Electronics and Communication Engineering, Tianjin University, 2015
++ BEng. in Electronics Science and Technology, Tianjin University, 2011
 
 ---
 ## Experience
