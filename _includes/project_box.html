@@ -2,12 +2,15 @@
   <div class="cover {% cycle 'left', 'right'%} col m5 s12">
     <div class="valign-wrapper">
       <div class="col s8 offset-s2">
-        <a href={{project.github_url}}><h3 class="heading"> <font color="blue">{{project.title}}</font></h3></a>
+        <a href={{project.github_url}}><h3 class="heading"> <font color="DeepSkyBlue">{{project.title}}</font></h3></a>
         <p>From {{project.date}} to {{project.last_modified_at}}</p>
         <!-- Modal Trigger -->
-        <button class="fill col s12 modal-trigger" href="#{{project.id}}">learn more</button>
+        <!-- <button class="fill col s12 modal-trigger" href="#{{project.id}}">learn more</button> -->
+        <div class="row">
+          <p class="description col s9 m10">Description: {{project.description}}</p>
+        </div>
       </div>
     </div>
-    <!-- Modal Structure -->
-    {% include project_modal.html %}
+   <!--  <!-- Modal Structure -->
+    {% include project_modal.html %} -->
 </div>
