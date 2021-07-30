@@ -6,10 +6,10 @@
   github_url: https://github.com/HaoyuCreate/MedicalSegmentation
   description: Propose an effective strategy that jointly trains 2D segmentation and 3D segmentation networks in a coarse-to-fine manner.  With the 2D segmentation network providing organ-attended data learned from an extensive volume input, the 3D deep network can generate refined segmentation results based on multi-stage visual knowledge.  Besides,  a novel Adversarial Performance Validator (APV) module is applied to the 2D-to-3D pipeline.
   technologies: [
+                  Pseudo labeling,
+                  CT/MRI images,
                   Pytorch,
-                  CT images,
-                  MRI,
-                  Pseudo labeling
+                  Python
                 ]
   cover: /assets/images/test.png
   images: /assets/images/project_images/MedicalSeg/MedicalSeg_result1.png
@@ -22,11 +22,12 @@
   github_url: https://github.com/HaoyuCreate/Lane-segmentation-for-Automous-Driving
   description: Developed a deep network named ContinuityLearner to better learn geometric prior within lane. Specifically, our proposed CNN-based paradigm involves a novel Context-encoding image feature learning network to generate class-dependent image feature maps and a new encoding layer to exploit the geometric continuity feature representation by fusing both spatial and visual information of lane together.
   technologies: [
-                  Visual SLAM,
+                  Object Detection,
                   Depth Estimation,
-                  Ego-motion,
-                  self-supervised,
-                  GAN
+                  Ego-motion Prediction,
+                  Visual SLAM,
+                  Python,
+                  C++
                 ]
   cover: /assets/images/test.png
   images: /assets/images/project_images/LaneDet/LaneDet_result1.png
@@ -42,7 +43,8 @@
                   Emsemble Learning,
                   Boosting,
                   Tensorflow,
-                  Keras
+                  Keras,
+                  Python
                 ]
   cover: /assets/images/test.png
   images: /assets/images/project_images/LeafCla/LeafCla_result1.png
@@ -55,10 +57,11 @@
   github_url: /assets/files/VideoTransmittingIntro.pdf
   description: Established a Gstreamer pipeline of video capturing, fish-eye camera calibrating, compressing and transmitting.
   technologies: [
-                  CUDA,
+                  Gsteamer,
+                  OpenCV,
                   GPU parallel processing,
-                  C++,
-                  Gsteamer
+                  CUDA,
+                  C++
                 ]
   cover: /assets/images/test.png
   images: [
