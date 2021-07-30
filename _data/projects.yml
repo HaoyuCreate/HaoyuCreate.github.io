@@ -3,7 +3,7 @@
   date: 2018-10-14
   last_modified_at: 2019-04-08
   # url: https://tic-or-treat.herokuapp.com/
-  github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
+  github_url: https://github.com/HaoyuCreate/MedicalSegmentation
   description: Worked on 2D/3D multi-organ segmentation from head-and-neck and abdominal CT/MRI images.
   technologies: [
                   Pytorch,
@@ -19,7 +19,7 @@
   date: 2019-08-02
   last_modified_at: 2020-12-24
   # url: https://dbc-hackoverflow.herokuapp.com/
-  github_url: https://github.com/wvicioso/hackoverflow
+  github_url: https://github.com/HaoyuCreate/Lane-segmentation-for-Automous-Driving
   description: Worked on advanced algorithms of object detection and depth estimation in autonomous driving scenarios.
   technologies: [
                   Visual SLAM,
@@ -28,7 +28,7 @@
                   self-supervised,
                   GAN
                 ]
-  cover: /assets/images/project_covers/hack-overflow-cover.png
+  cover: /assets/images/test.png
   images: /assets/images/project_images/LaneDet/LaneDet_result1.png
 
 - id: 3
@@ -36,7 +36,7 @@
   date: 2020-12-02
   last_modified_at: 2021-03-21
   # url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
+  github_url: https://github.com/HaoyuCreate/LeafDiseaseClassification_Kaggle
   description: Participated in Kaggle Cassava Leaf Disease Classification Competition and earned a sliver medal as No.19 over around 3900 teams.
   technologies: [
                   Emsemble Learning,
@@ -52,7 +52,7 @@
   date: 2017-09-01
   last_modified_at: 2017-12-31
   # url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
+  github_url: /assets/images/VideoTransmittingIntro.pdf
   description: Established a Gstreamer pipeline of video capturing, fish-eye camera calibrating, compressing and transmitting.
   technologies: [
                   CUDA,
