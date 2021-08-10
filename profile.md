@@ -25,7 +25,7 @@ Download my [resumé](/assets/files/Resume.pdf).
 ## Research
 ### Publications
 
-+ **Deep learning-assisted light-writing recognition based on the two-dimensional photothermoelectric effect of SnSe**  
++ **Deep learning-assisted Light-writing Recognition Based on the Two-dimensional Photothermoelectric Effect of SnSe**  
   Y. Zhong, **H. Fang**, H. Zhu.  
   Accepted by _2D Materials_, 2021.  
   \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to Proceedings<!-- (https://arxiv.org/abs/1909.13163) -->\]
@@ -38,11 +38,11 @@ Download my [resumé](/assets/files/Resume.pdf).
 ### Manuscripts
 + **ContinuityLearner: Geometric Continuity Feature Learning for LaneSegmentation**  
   **H. Fang**, J. Zhu, F. Gao, A. Tzes and Y. Fang.  
-  _arXiv preprint arXiv:2021.13568_, 2021.  
-  \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
+  arXiv preprint _arXiv:2108.03507_, 2021.  
+  \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[[Link to arXiv](https://arxiv.org/abs/2108.03507)\]
 + **Multi-organ Segmentation Network with Adversarial Performance Validator**  
   **H. Fang**, Y. Fang and X. Yang.  
-  _arXiv preprint arXiv:2021.14196_, 2021.  
+  arXiv preprint _arXiv:2021.14196_, 2021.  
   \[BibTeX<!-- (/assets/bibs/shi2019self.txt) -->\] \[Link to arXiv<!-- (https://arxiv.org/abs/1909.13163) -->\]
 
 ### Patents
