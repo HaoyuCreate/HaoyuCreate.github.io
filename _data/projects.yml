@@ -18,7 +18,7 @@
   title: Lane Detection in Automous Driving
   date: 2019-08-02
   last_modified_at: 2020-12-24
-  # url: https://dbc-hackoverflow.herokuapp.com/
+  url: https://arxiv.org/abs/2108.03507
   github_url: https://github.com/HaoyuCreate/Lane-segmentation-for-Automous-Driving
   description: Developed a deep network named ContinuityLearner to better learn geometric prior within lane. Specifically, our proposed CNN-based paradigm involves a novel Context-encoding image feature learning network to generate class-dependent image feature maps and a new encoding layer to exploit the geometric continuity feature representation by fusing both spatial and visual information of lane together.
   technologies: [
